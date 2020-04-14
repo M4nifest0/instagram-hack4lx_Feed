@@ -23,7 +23,7 @@
 # author          :rainboy1 | erfan4lx | Vampire4lx
 # date            :2020 March
 # version         :1.1.0
-# usage           :python haxk4lx_toolkit.py
+# usage           :python3 start.py and  python3 start.py --color
 # channel          :t.me/hack4lxCombo
 # python_version  :+3.7
 
