@@ -1,6 +1,4 @@
-
-#  instagram-hack4lx_Feed[Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/levlogo.png) 
-
+# instagram-hack4lx_Feed![Locations](https://github.com/attakercyebr/haxk4lx_toolkit/blob/master/levlogo.png) 
 **********************************************************
 
 ![Locations](https://github.com/attakercyebr/instagram-hack4lx_Feed/blob/master/hack4lx1.png) 
